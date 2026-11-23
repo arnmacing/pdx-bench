@@ -1,0 +1,7 @@
+numpy
+h5py
+pyarrow
+pyyaml
+pandas
+matplotlib
+clickhouse-connect
